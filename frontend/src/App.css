@@ -1,0 +1,34 @@
+/* html, #body{
+  height: 100vh;
+  width: 100%;
+}
+
+main{
+  height: 100%;
+  width: 100%;
+  padding: 2.5rem;
+  display: flex;
+  gap: 1rem;
+}
+
+main .left,main .right{
+  height: 100%;
+  flex-basis: 50%;
+  border-radius: 0.7rem;
+}
+
+main .left{
+  background-color: #0000;
+}
+
+main .left .review{
+  position: absolute;
+  bottom: 1rem;
+  right: 1rem;
+  background-color: rgb(171, 171, 243);
+  padding: 0.5rem 2rem;
+}
+
+main .right{
+  background-color: #ffff;
+} */
